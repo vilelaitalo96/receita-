@@ -93,3 +93,8 @@ h2{
     font-size: 12px;
     color: #854632;
 }
+
+.modo li::marker{
+    color: #854632;
+    font-weight: 700;
+}
